@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5007" started-at="2023-10-25T22:37:11 EDT" finished-at="2023-10-25T22:37:16 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5007" started-at="2023-10-25T22:37:11 EDT" finished-at="2023-10-25T22:37:16 EDT">
+      <class name="com.orgdemo1.Demo6Test">
+        <test-method status="PASS" signature="getrequesttyepecode2()[pri:0, instance:com.orgdemo1.Demo6Test@704a52ec]" name="getrequesttyepecode2" duration-ms="405" started-at="2023-10-25T22:37:16 EDT" finished-at="2023-10-25T22:37:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getrequesttyepecode2 -->
+      </class> <!-- com.orgdemo1.Demo6Test -->
+      <class name="com.orgdemo1.Demo8Test">
+        <test-method status="PASS" signature="postrequest()[pri:0, instance:com.orgdemo1.Demo8Test@76f2b07d]" name="postrequest" duration-ms="357" started-at="2023-10-25T22:37:15 EDT" finished-at="2023-10-25T22:37:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postrequest -->
+      </class> <!-- com.orgdemo1.Demo8Test -->
+      <class name="com.orgdemo1.Demo7Test">
+        <test-method status="PASS" signature="postrequest()[pri:0, instance:com.orgdemo1.Demo7Test@1f57539]" name="postrequest" duration-ms="4191" started-at="2023-10-25T22:37:11 EDT" finished-at="2023-10-25T22:37:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postrequest -->
+      </class> <!-- com.orgdemo1.Demo7Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
